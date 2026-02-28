@@ -1,1 +1,14 @@
 Week1/AssignmentFiles/answer_key.sql
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS system files
+.DS_Store
+
+# Database files
+*.db
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
